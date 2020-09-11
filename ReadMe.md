@@ -9,6 +9,8 @@ Language :
 	
 # Contributor
 1. Dhruv Saini  
-     . LinkedIN - https://www.linkedin.com/in/dhruv73
+	
+	- LinkedIN - https://www.linkedin.com/in/dhruv73
+		
+	- Codechef - https://www.codechef.com/users/dhruv_73
 
-     . Codechef - https://www.codechef.com/users/dhruv_73
